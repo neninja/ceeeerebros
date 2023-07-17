@@ -41,7 +41,7 @@ function App() {
   const [ceeeeerebroAudio, setCeeeeerebroAudio] = useState(() => randomCeeeeerebroAudio());
   const [play, { stop }] = useSound(ceeeeerebroAudio);
   const [zombies, setZombies] = useState<Zombie[]>(() => {
-    const initialValue = JSON.parse(localStorage.getItem(LOCALSTORAGE_ZOMBIES) || "");
+    const initialValue = JSON.parse(localStorage.getItem(LOCALSTORAGE_ZOMBIES) || "[]");
     return initialValue || [];
   });
 
