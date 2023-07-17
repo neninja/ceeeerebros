@@ -6,7 +6,7 @@ Contador de cérebros do [zombie dice](https://ludopedia.com.br/jogo/zombie-dice
 
 ## Desenvolvimento
 
-> Caso prefira, os comandos usuáris já estão mapeados no [Makefile](Makefile). Podendo usar `make up`, `make down`, `make start` etc
+> Caso prefira, os comandos usuaris estão mapeados no [Makefile](Makefile). Facilitando o desenvolvimento com `make up`, `make down`, `make start` etc
 
 ### Ambiente
 
