@@ -166,7 +166,7 @@ function App() {
             </TableHead>
             <TableBody>
               {zombies.map((zombie) => (
-                <TableRow key={zombie.id} sx={{background: zombie.id === currentZombie?.id ? "#f44336" : ""}}>
+                <TableRow key={zombie.id} sx={{background: zombie.id === currentZombie?.id ? "#b2b2b2" : ""}}>
                   <TableCell onClick={() => handleSelectZombie(zombie.id)}>{zombie.name}</TableCell>
                   <TableCell>{zombie.brains}</TableCell>
                   <TableCell><Button color="warning" onClick={() => handleDeleteZombie(zombie.id)}>
