@@ -4,6 +4,8 @@
 
 Contador de cérebros do [zombie dice](https://ludopedia.com.br/jogo/zombie-dice)
 
+![image](https://github.com/nenitf/ceeeerebros/assets/29121828/8cd139b4-ead6-4407-a231-55163f1fa737)
+
 ## Desenvolvimento
 
 > Caso prefira, os comandos usuaris estão mapeados no [Makefile](Makefile). Facilitando o desenvolvimento com `make up`, `make down`, `make start` etc
