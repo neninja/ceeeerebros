@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ceeeerebros/static/css/main.073c9b0a.css",
-    "main.js": "/ceeeerebros/static/js/main.830dd506.js",
+    "main.js": "/ceeeerebros/static/js/main.d206fcf5.js",
     "static/js/845.e4651bec.chunk.js": "/ceeeerebros/static/js/845.e4651bec.chunk.js",
     "static/js/787.1dbf6915.chunk.js": "/ceeeerebros/static/js/787.1dbf6915.chunk.js",
     "service-worker.js": "/ceeeerebros/service-worker.js",
@@ -19,12 +19,12 @@
     "static/media/ana.mp3": "/ceeeerebros/static/media/ana.3cbda908df84e56f0c33.mp3",
     "index.html": "/ceeeerebros/index.html",
     "main.073c9b0a.css.map": "/ceeeerebros/static/css/main.073c9b0a.css.map",
-    "main.830dd506.js.map": "/ceeeerebros/static/js/main.830dd506.js.map",
+    "main.d206fcf5.js.map": "/ceeeerebros/static/js/main.d206fcf5.js.map",
     "845.e4651bec.chunk.js.map": "/ceeeerebros/static/js/845.e4651bec.chunk.js.map",
     "787.1dbf6915.chunk.js.map": "/ceeeerebros/static/js/787.1dbf6915.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.830dd506.js"
+    "static/js/main.d206fcf5.js"
   ]
 }
